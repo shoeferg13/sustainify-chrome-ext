@@ -22,7 +22,6 @@
       .box {
         width: 150px;
         height: 50px;
-        text-align: center;
       }
 
       .error {
@@ -32,44 +31,28 @@
       .message {
         display: block;
       }
-      .linkYesPadding {
-        padding-left: 40px;
+
+      .linkPadding {
+        padding: 25px;
         color: black;
         font-weight: bold;
       }
-      .linkNoPadding {
-        padding-left: 20px;
-        color: black;
-        font-weight: bold;
-      }
-  
-    .backgroundColor {
+      .backgroundColor {
       background-color: aquamarine;
-    }
-    .logoSize {
-      height: 100px;
-      width: 100px;
-      align-self: center;
-      padding-left: 25px;
-      padding-bottom: 50px;
     }
     .pickPadding {
       padding-bottom: 20px;
-      padding-left: 10px;
     }
     </style>
   </head>
   <body class="backgroundColor">
     <form id="js-form">
-      <div class="box">Welcome to Sustainify!</div>
-      <img class="logoSize" src="icons/sustainify.png"></img>
-      <div class="pickPadding">Pick preferences now?</div>
-      <span class="message" id="js-message"></span>
-      <a class="linkYesPadding" href="rankCriteria.html">
-        Yes
-      </a>
-      <a class="linkNoPadding" href="ranking.html">
-        No
+      <div class="box">Rank the three criteria: </div>
+      <div>1st: Plant</div>
+      <div>2nd: Animal</div>
+      <div class="pickPadding">3rd: People</div>
+      <a class="linkPadding" href="popup.html">
+        Back
       </a>
     </form>
     <script src="js/popup.js"></script>

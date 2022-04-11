@@ -1,0 +1,421 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "name": "UNIQLO",
+            "url": "https://www.uniqlo.com",
+            "info": {
+                "price": "$",
+                "GOY environment rating": 3,
+                "GOY labour rating": 2,
+                "GOY animal rating": 3,
+                "environment practices": "It uses some eco-friendly materials including recycled materials. It has set an intensity target to reduce greenhouse gas emissions generated from its own operations but there is no evidence it has set an absolute target. It minimises packaging. It has a policy approved by CanopyStyle to prevent deforestation of ancient and endangered forests in its supply chain",
+                "labour practices": "Some of its supply chain is certified by FLA Workplace Code of Conduct including all of the final stage of production. It received a score of 31-40% in the Fashion Transparency Index. It likely publishes information about its supplier policies, audits and remediation processes. It likely publishes a list of suppliers in the final stage of production but not the second stage. It may be publishing limited information about forced labour, gender equality or freedom of association. There is no evidence it ensures payment of a living wage in its supply chain. It discloses policies to protect suppliers in its supply chain from the impacts of COVID-19 but not workers",
+                "animal practices": "It has a formal animal welfare policy aligned with Five Freedoms. It uses leather and exotic animal hair. It states that it sources wool from non-mulesed sheep. It uses down certified by the Responsible Down Standard. It does not use fur, exotic animal skin or angora",
+                "recommendation": [
+                    "Yes Friends",
+                    "Knickey",
+                    "Kotn"
+                ]
+            }
+        },
+        {
+            "id": 1,
+            "name": "Stradivarius",
+            "url": "https://www.stradivarius.com/us/",
+            "info": {
+                "price": "$",
+                "GOY environment rating": 2,
+                "GOY labour rating": 2,
+                "GOY animal rating": 2,
+                "environment practices": "It uses few eco-friendly materials. It has set a science-based target to reduce greenhouse gas emissions generated from its own operations and supply chain but there is no evidence it is on track to meet its target. It has fast fashion traits such as on trend styles and regular new arrivals. There is no evidence it minimises textile waste when manufacturing its products",
+                "labour practices": "Half of its final stage of production is undertaken in Spain, a medium risk country for labour abuse. It received a score of 31-40% in the 2021 Fashion Transparency Index. There is no evidence it ensures payment of a living wage in its supply chain. It discloses some policies to protect suppliers and workers in its supply chain from the impacts of COVID-19",
+                "animal practices": "It has a formal animal welfare policy aligned with Five Freedoms but has no clear mechanisms to implement. It uses leather. It has a policy to source wool from non-mulesed sheep but does not provide evidence on how it is implemented. It does not use exotic animal hair, fur, angora or exotic animal skin",
+                "recommendation": [
+                    "Studio JUX",
+                    "Saint Basics",
+                    "Sense Organics"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "Topshop",
+            "url": "https://www.nordstrom.com/brands/topshop",
+            "info": {
+                "price": "$",
+                "GOY environment rating": 2,
+                "GOY labour rating": 2,
+                "GOY animal rating": 3,
+                "environment practices": "It uses few eco-friendly materials. It has fast fashion traits such as on trend styles and regular new arrivals. There is no evidence it has set a greenhouse gas emissions reduction target. There is no evidence it has taken meaningful action to reduce or eliminate hazardous chemicals",
+                "labour practices": "Some of its supply chain is certified by Sedex Members Ethical Trade Audit - SMETA Best Practice Guidance including all of the final stage of production. It received a score of 31-40% in the Fashion Transparency Index. It likely publishes information about its supplier policies, audits and remediation processes. It likely publishes a list of suppliers in the final stage of production but not the second stage. It may be publishing limited information about forced labour, gender equality or freedom of association. There is no evidence it ensures payment of a living wage in its supply chain. It does not disclose any policies or safeguards to protect suppliers and workers in its supply chain from the impacts of COVID-19",
+                "animal practices": "It has a general statement about minimising animal suffering but not a formal animal welfare policy. It does not use fur, down, exotic animal skin or hair. It states that it sources wool from non-mulesed sheep. It uses leather",
+                "recommendation": [
+                    "CHNGE",
+                    "PaaPii Design",
+                    "Yes Friends"
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "name": "Ripcurl",
+            "url": "https://www.ripcurl.com/us/",
+            "info": {
+                "error": "No Results Found",
+                "recommendation": [
+                    "allSisters",
+                    "Loop Swim",
+                    "Charlee Swim"
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "name": "Victoria's Secret",
+            "url": "https://www.victoriassecret.com/",
+            "info": {
+                "error": "No Results Found",
+                "recommendation": [
+                    "Natalie Perry",
+                    "Whimsy + Row",
+                    "Amadeus"
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "name": "Urban Outfitters",
+            "url": "https://www.urbanoutfitters.com/",
+            "info": {
+                "error": "No Results Found",
+                "recommendation": [
+                    "CHNGE",
+                    "Saint Basics",
+                    "Purnama"
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "name": "GUESS",
+            "url": "https://www.guess.com/us/en/home/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 2,
+                "GOY labour rating": 2,
+                "GOY animal rating": 2,
+                "environment practices": "There is no evidence it minimises textile waste when manufacturing its products. There is no evidence it has a policy to protect biodiversity in its supply chain. It implements water reduction initiatives in some of its supply chain",
+                "labour practices": "Some of its supply chain is certified by Sedex Members Ethical Trade Audit - SMETA Best Practice Guidance in the final stage of production. It received a score of 11-20% in the 2021 Fashion Transparency Index. There is no evidence it implements practices to support diversity and inclusion in its supply chain. There is no evidence it ensures payment of a living wage in its supply chain. It does not disclose adequate policies or safeguards to protect suppliers and workers in its supply chain from the impacts of COVID-19",
+                "animal practices": "It has a formal animal welfare policy aligned with Five Freedoms but has no clear mechanisms to implement. It uses leather, exotic animal hair and wool. It uses down accredited by the Responsible Down Standard. It does not use fur, angora or exotic animal skin",
+                "recommendation": [
+                    "People Tree",
+                    "Mata Traders",
+                    "Amour Vert"
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "name": "GAP",
+            "url": "https://www.gap.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 3,
+                "GOY labour rating": 2,
+                "GOY animal rating": 2,
+                "environment practices": "It uses some eco-friendly materials including recycled materials. There is no evidence it minimises textile waste when manufacturing its products. It has set a science-based target to reduce greenhouse gas emissions generated from its own operations and supply chain but there is no evidence it is on track to meet its target. It received an 'A' in the Carbon Disclosure Project (CDP) water security questionnaire. It demonstrates leadership in managing water use in its supply chain",
+                "labour practices": "None of its supply chain is certified by labour standards which ensure worker health and safety, living wages or other labour rights. It received a score of 41-50% in the Fashion Transparency Index. It likely publishes information about its supplier policies, audits and remediation processes. It publishes a detailed list of suppliers in the final stage of production and some information about the second stage of production. It may be publishing some information about forced labour, gender equality or freedom of association. There is no evidence it ensures payment of a living wage in its supply chain. It discloses inadequate policies to protect suppliers and workers in its supply chain from the impacts of COVID-19",
+                "animal practices": "It has a basic formal policy to protect animal welfare. It uses leather, wool and exotic animal hair. It does not use fur, down, angora or exotic animal skin",
+                "recommendation": [
+                    "loud + proud",
+                    "Phyne",
+                    "The Common Good Company"
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "name": "Zara",
+            "url": "https://www.zara.com/us/",
+            "info": {
+                "price": "$",
+                "GOY environment rating": 2,
+                "GOY labour rating": 2,
+                "GOY animal rating": 2,
+                "environment practices": "It uses few eco-friendly materials. It has set a science-based target to reduce greenhouse gas emissions generated from its own operations and supply chain but there is no evidence it is on track to meet its target. It has fast fashion traits such as on trend styles and regular new arrivals. There is no evidence it minimises textile waste when manufacturing its products",
+                "labour practices": "Half of its final stage of production is undertaken in Spain, a medium risk country for labour abuse. It received a score of 31-40% in the 2021 Fashion Transparency Index. There is no evidence it ensures payment of a living wage in its supply chain. It discloses some policies to protect suppliers and workers in its supply chain from the impacts of COVID-19",
+                "animal practices": "It has a formal animal welfare policy aligned with Five Freedoms but has no clear mechanisms to implement. It uses leather and exotic animal hair. It has a policy to source wool from non-mulesed sheep but does not provide evidence on how it is implemented. It does not use fur, angora or exotic animal skin",
+                "recommendation": [
+                    "Honest Basics",
+                    "Mighty Good Basics",
+                    "Studio JUX"
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "name": "Zaful",
+            "url": "https://www.zaful.com/",
+            "info": {
+                "price": "$",
+                "GOY environment rating": 1,
+                "GOY labour rating": 1,
+                "GOY animal rating": 0,
+                "environment practices": "",
+                "recommendation": [
+                    "Bik Bok",
+                    "WE Fashion",
+                    "Junarose"
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "name": "H&M",
+            "url": "https://www2.hm.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 3,
+                "GOY labour rating": 3,
+                "GOY animal rating": 3,
+                "environment practices": "It uses some eco-friendly materials including recycled materials. It has fast fashion traits such as on trend styles and regular new arrivals. It has a policy approved by CanopyStyle to prevent deforestation of ancient and endangered forests in some of its supply chain. It has set a science-based target to reduce greenhouse gas emissions generated from its own operations and supply chain but there is no evidence it is on track to meet its target",
+                "labour practices": "Almost none of its supply chain is certified by labour standards which ensure worker health and safety, living wages or other labour rights. It received a score of 61-70% in the 2021 Fashion Transparency Index. There is no evidence it implements practices to support diversity and inclusion in its supply chain. It has a project to improve wages in its supply chain however there is no evidence it ensures payment of a living wage in most of its supply chain. It discloses some policies to protect suppliers and workers in its supply chain from the impacts of COVID-19",
+                "animal practices": "It has a formal animal welfare policy aligned with Five Freedoms and has some clear mechanisms to implement. It uses leather and exotic animal hair. It states that it sources wool from non-mulesed sheep. It uses down certified by the Responsible Down Standard. It does not use fur, exotic animal skin or angora",
+                "recommendation": [
+                    "KENT",
+                    "unspun",
+                    "The Tiny Closet"
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "name": "Forever 21",
+            "url": "https://www.forever21.com/",
+            "info": {
+                "price": "$",
+                "GOY environment rating": 1,
+                "GOY labour rating": 1,
+                "GOY animal rating": 3,
+                "environment practices": "It does not publish sufficient relevant information about its environmental policies to give a higher rating. As a shopper you have the right to know how its production practices impacts on the environment",
+                "labour practices": "None of its supply chain is certified by labour standards which ensure worker health and safety, living wages or other labour rights. It received a score of 0-10% in the Fashion Transparency Index. It publishes zero or very limited information about its supplier policies and audits. It does not disclose any information about forced labour, gender equality or freedom of association. There is no evidence it ensures payment of a living wage in its supply chain. It does not disclose any policies or safeguards to protect suppliers and workers in its supply chain from the impacts of COVID-19",
+                "animal practices": "It has a general statement about minimising animal suffering but not a formal animal welfare policy. It does not use fur, angora, leather, down or exotic animal skin. It uses wool and exotic animal hair",
+                "recommendation": [
+                    "PaaPii Design",
+                    "Yes Friends",
+                    "Knickey"
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "name": "Shein",
+            "url": "https://us.shein.com/",
+            "info": {
+                "price": "$$$",
+                "GOY environment rating": 1,
+                "GOY labour rating": 1,
+                "GOY animal rating": 2,
+                "environment practices": "It has fast fashion traits such as on trend styles and regular new arrivals. It uses few eco-friendly materials. There is no evidence that it has taken meaningful action to reduce or eliminate hazardous chemicals. There is no evidence it reduces its carbon and other greenhouse gas emissions in its supply chain. There is no evidence it has a policy to minimise the impacts of microplastics",
+                "labour practices": "None of its supply chain is certified by labour standards which ensure worker health and safety, living wages or other labour rights. It received a score of 0-10% in the 2021 Fashion Transparency Index. There is no evidence it implements practices to encourage diversity and inclusion in its direct operations or supply chain. There is no evidence it ensures payment of a living wage in its supply chain. It does not disclose adequate policies or safeguards to protect suppliers and workers in its supply chain from the impacts of COVID-19",
+                "animal practices": "There is no evidence it has a policy to minimise the suffering of animals. It uses wool and exotic animal hair. It does not use leather, fur, down, angora or exotic animal skin",
+                "recommendation": [
+                    "Christy Dawn",
+                    "Bougainvillea London",
+                    "milo+nicki"
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "name": "Fashion Nova",
+            "url": "https://www.fashionnova.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 1,
+                "GOY labour rating": 1,
+                "GOY animal rating": 2,
+                "environment practices": "It uses few eco-friendly materials. There is no evidence it reduces its carbon and other greenhouse gas emissions in its supply chain. There is no evidence it has taken meaningful action to reduce or eliminate hazardous chemicals. There is no evidence it minimises textile waste",
+                "labour practices": "None of its supply chain is certified by labour standards which ensure worker health and safety, living wages or other labour rights. It received a score of 0-10% in the 2021 Fashion Transparency Index. There is no evidence it implements practices to encourage diversity and inclusion in its direct operations or supply chain. There is no evidence it ensures payment of a living wage in its supply chain. It does not disclose adequate policies or safeguards to protect suppliers and workers in its supply chain from the impacts of COVID-19",
+                "animal practices": "There is no evidence it has a policy to minimise the suffering of animals. It uses leather, decorative feathers and wool. It does not use fur, angora, exotic animal skin or exotic animal hair",
+                "recommendation": [
+                    "Delikate Rayne",
+                    "TAMGA Designs",
+                    "tonl\u00e9"
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "name": "Patagonia",
+            "url": "https://www.patagonia.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 4,
+                "GOY labour rating": 4,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including recycled materials. It has conducted research with industry bodies on the impact of microplastics. There is no evidence it has a policy to prevent deforestation in the supply chain. It implements greenhouse gas emissions reduction activities throughout its supply chain to reduce its climate impact",
+                "labour practices": "Some of its supply chain is certified by FLA Workplace Code of Conduct and Fair Trade USA in the final stage of production. It received a score of 51-60% in the 2021 Fashion Transparency Index. It ensures payment of a living wage in some of the final stage of production. It discloses policies to protect suppliers in its supply chain from the impacts of COVID-19 but not workers",
+                "animal practices": "It has a formal animal welfare policy aligned with Five Freedoms and has clear mechanisms to implement. It uses leather and exotic animal hair. It uses wool certified by the Responsible Wool Standard. It uses down certified by the Responsible Down Standard. It does not use fur, exotic animal skin or angora"
+            }
+        },
+        {
+            "id": 15,
+            "name": "Everlane",
+            "url": "https://www.everlane.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 2,
+                "GOY labour rating": 2,
+                "GOY animal rating": 2,
+                "environment practices": "It uses some eco-friendly materials including recycled fabrics. There is no evidence it minimises textile waste when manufacturing its products. There is no evidence it reduces its carbon and other greenhouse gas emissions in most of its supply chain. There is no evidence it has set a deadline to eliminate hazardous chemicals",
+                "labour practices": "There is no evidence it has worker empowerment initiatives such as collective bargaining or rights to make a complaint. It sources its final stage of production from countries with extreme risk of labour abuse. There is no evidence it ensures payment of a living wage in its supply chain. It audits some of its supply chain including all of the final stage of production. It discloses some policies to protect suppliers from the impacts of COVID-19 but not workers",
+                "animal practices": "It has a general statement about minimising animal suffering but not a formal animal welfare policy. It uses leather and exotic animal hair. It states that it sources wool from non-mulesed sheep. It does not use fur, down, exotic animal skin or angora"
+            }
+        },
+        {
+            "id": 16,
+            "name": "Girlfriend Collective",
+            "url": "https://girlfriend.com/",
+            "info": {
+                "error": "No Results Found"
+            }
+        },
+        {
+            "id": 17,
+            "name": "Pact",
+            "url": "https://wearpact.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 4,
+                "GOY labour rating": 4,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including Global Organic Textile Standard (GOTS) cotton. It encourages consumers to reduce their climate impact when using its products. There is no evidence it minimises textile waste. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its facilities are Global Organic Textile Standard (GOTS) certified and it is a member of Fair Trade USA. There is no evidence it has a Code of Conduct but it has a formal statement covering workers rights. It sources its final stage of production from countries with extreme risk of labour abuse. It traces most of its supply chain including all of the final stage of production. It ensures payment of a living wage in most of its supply chain",
+                "animal practices": "It does not use fur, leather, down, exotic animal skin, exotic animal hair or angora"
+            }
+        },
+        {
+            "id": 18,
+            "name": "Kotn",
+            "url": "https://kotn.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 2,
+                "GOY labour rating": 4,
+                "GOY animal rating": 4,
+                "environment practices": "It does not use eco-friendly materials. It uses Oeko-Tex Standard 100 certified dyes. There is no evidence it minimises textile waste. It uses packaging that can be recycled",
+                "labour practices": "It has a mission to improve social condition for cotton communities in Egypt. It traces all of its supply chain. It is unclear whether it ensures payment of a living wage in its supply chain",
+                "animal practices": ""
+            }
+        },
+        {
+            "id": 19,
+            "name": "Quince",
+            "url": "https://www.onequince.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 2,
+                "GOY labour rating": 2,
+                "GOY animal rating": 3,
+                "environment practices": "It uses some eco-friendly materials including organic cotton. There is no evidence it reduces its carbon and other greenhouse gas emissions. There is no evidence it has taken meaningful action to reduce or eliminate hazardous chemicals. There is no evidence it implements water reduction initiatives",
+                "labour practices": "There is no evidence it has a Code of Conduct but it has a formal statement covering workers rights. It sources its final stage of production from countries with extreme risk of labour abuse. There is no evidence it ensures payment of a living wage in its supply chain. It traces some of its supply chain including all of the final stage of production",
+                "animal practices": "It does not use fur, leather, down, exotic animal skin or angora"
+            }
+        },
+        {
+            "id": 20,
+            "name": "Whimsy + Row",
+            "info": {
+                "price": "$$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 3,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including recycled fabrics. It manufactures locally to reduce its carbon footprint. It uses packaging from recycled materials. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its final stage of production is undertaken in the USA, a medium risk country for labour rights. There is no evidence it ensures payment of a living wage in its supply chain. It traces most of its supply chain. It visits its suppliers regularly",
+                "animal practices": "It does not use leather, fur, down, wool, angora or exotic animal skin or hair"
+            }
+        },
+        {
+            "id": 21,
+            "name": "Reformation",
+            "url": "https://whimsyandrow.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 4,
+                "GOY labour rating": 4,
+                "GOY animal rating": 3,
+                "environment practices": "It uses a medium proportion of eco-friendly materials including Tencel Lyocell. It has a policy approved by CanopyStyle to prevent deforestation of ancient and endangered forests in its supply chain. It reuses offcuts to minimise textile waste. It has set a greenhouse gas emissions reduction target covering its direct operations and supply chain. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "It has a Code of Conduct that covers all of the ILO Four Fundamental Freedoms principles. It traces most of its supply chain. It ensures payment of a living wage in some of its supply chain. It provides training to its suppliers to improve working conditions for workers in its supply chain",
+                "animal practices": "It has a formal animal welfare policy aligned with Five Freedoms. It uses leather and exotic animal hair. It states that it sources wool from non-mulesed sheep. It does not use fur, angora or exotic animal skin"
+            }
+        },
+        {
+            "id": 22,
+            "name": "Hass",
+            "url": "https://shophass.com/",
+            "info": {
+                "error": "No Results Found"
+            }
+        },
+        {
+            "id": 23,
+            "name": "Vetta",
+            "url": "https://www.vettacapsule.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 4,
+                "GOY labour rating": 4,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including organic cotton. It uses renewable energy in its supply chain to reduce its climate impact. There is no evidence it minimises textile waste when manufacturing its products. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its final stage of production is undertaken in the USA, a medium risk country for labour rights. It ensures payment of a living wage in some of its supply chain. It traces most of its supply chain including all of the final and second stages of production. It visits its suppliers regularly",
+                "animal practices": ""
+            }
+        },
+        {
+            "id": 24,
+            "name": "tentree",
+            "url": "https://www.tentree.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 4,
+                "GOY labour rating": 3,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including organic cotton. It uses renewable energy in its supply chain to reduce its climate impact. It uses some recycled packaging. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "It has a Code of Conduct that covers all of the ILO Four Fundamental Freedoms principles. It sources its final stage of production from countries with extreme risk of labour abuse. It traces most of its supply chain including all of the final stage of production. There is no evidence it ensures payment of a living wage in its supply chain. It audits or visits some of its suppliers",
+                "animal practices": "It does not use fur, leather, down, exotic animal skin, exotic animal hair or angora"
+            }
+        },
+        {
+            "id": 25,
+            "name": "Organic Basics",
+            "url": "https://us.organicbasics.com/",
+            "info": {
+                "price": "$$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 4,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including organic cotton. It uses renewable energy in its supply chain to reduce its climate impact. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "There is no evidence it has a Code of Conduct but it has a formal statement covering workers rights. It traces most of its supply chain. It ensures payment of a living wage in some of its supply chain but does not specify what percentage. It audits or visits most of its suppliers",
+                "animal practices": "It does not use fur, leather, down or exotic animal skin"
+            }
+        },
+        {
+            "id": 26,
+            "name": "Thought Clothing",
+            "url": "https://www.wearethought.com/",
+            "info": {
+                "error": "No Results Found"
+            }
+        },
+        {
+            "id": 27,
+            "name": "Back Beat Co.",
+            "url": "https://www.backbeat.co/",
+            "info": {
+                "error": "No Results Found"
+            }
+        }
+    ]
+}

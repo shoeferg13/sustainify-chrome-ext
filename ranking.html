@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Settings</title>
+    <style>
+      kbd {
+        font-size: inherit;
+        font-family: inherit;
+      }
+
+      input {
+        margin-top: 10px;
+        margin-bottom: 10px;
+      }
+
+      .success {
+        color: green;
+      }
+
+      .error {
+        color: red;
+      }
+
+      .message {
+        display: block;
+      }
+      .box {
+        width: 150px;
+        height: 150px;
+        text-align: center;
+      }
+      .circle {
+      width: 50px;
+      height: 50px;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      border-radius: 25px;
+      background: #E82F02;
+      align-self: center;
+    }
+    .center {
+        padding: 25px;
+        padding-left: 50px;
+    }
+    .linkPadding {
+        padding: 20px;
+        color: black;
+        font-weight: bold;
+      }
+      .backgroundColor {
+      background-color: aquamarine;
+    }
+    </style>
+  </head>
+  <body class="backgroundColor">
+    <form id="js-form">
+        <div class="box">
+      <div>Here is our ranking for this site's sustainability: 
+      </div>
+      <script src="js/ranking.js"></script>
+      <div id="jsonData" name="jsonData"></div>
+      <div id="jsonDataRanking" name="jsonDataRanking"></div>
+       <span class="message" id="js-message"></span>
+      <div class="center"><div class="circle">     </div></div>
+      <a class="linkPadding" href="popup.html">
+        Back
+      </a>
+    </form>
+    <script src="js/popup.js"></script>
+</div>
+  </body>
+</html>
