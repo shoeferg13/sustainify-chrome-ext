@@ -4,57 +4,39 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" type="text/css" href="ranking_style.css">
     <title>Settings</title>
-    <style>
-      kbd {
-        font-size: inherit;
-        font-family: inherit;
-      }
-
-      input {
-        margin-top: 10px;
-        margin-bottom: 10px;
-      }
-
-      .success {
-        color: green;
-      }
-      .box {
-        width: 150px;
-        height: 50px;
-      }
-
-      .error {
-        color: red;
-      }
-
-      .message {
-        display: block;
-      }
-
-      .linkPadding {
-        padding: 25px;
-        color: black;
-        font-weight: bold;
-      }
-      .backgroundColor {
-      background-color: aquamarine;
-    }
-    .pickPadding {
-      padding-bottom: 20px;
-    }
-    </style>
   </head>
   <body class="backgroundColor">
     <form id="js-form">
-      <div class="box">Rank the three criteria: </div>
-      <div>1st: Plant</div>
-      <div>2nd: Animal</div>
-      <div class="pickPadding">3rd: People</div>
-      <a class="linkPadding" href="popup.html">
-        Back
-      </a>
+      <div class="container">
+        <p class="rank-text">Please rank the sustainability practices that matter most to you:</p>
+
+        <ol class="draggable-list" id="draggable-list">
+          <li value=1>
+            <span class="number">1</span>
+            <div class="draggable" draggable="true">
+              <p class="sustainable-practice">Environmental</p>
+            </div>
+          </li>
+          <li value=2>
+            <span class="number">2</span>
+            <div class="draggable" draggable="true">
+              <p class="sustainable-practice">Animal</p>
+            </div>
+          </li>
+          <li value=3>
+            <span class="number">3</span>
+            <div class="draggable" draggable="true">
+              <p class="sustainable-practice">Labour</p>
+            </div>
+          </li>
+        </ol>
+
+      </div>
+      <a class="back-button" href="popup.html">Back</a>
     </form>
-    <script src="js/popup.js"></script>
+    <script src="js/drag_drop_logic.js"></script>
   </body>
 </html>
+
