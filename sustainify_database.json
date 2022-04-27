@@ -416,6 +416,487 @@
             "info": {
                 "error": "No Results Found"
             }
+        },
+        {
+            "id": 28,
+            "name": "Natalie Perry",
+            "url": "https://natalieperryjewellery.com/",
+            "info": {
+                "price": "$$$",
+                "GOY environment rating": 4,
+                "GOY labour rating": 5,
+                "environment practices": "It uses a medium proportion of eco-friendly materials including recycled materials. It makes products by hand to reduce its climate impact. There is no evidence it minimises packaging. Most of its products are made to order to minimise waste",
+                "labour practices": "Its final stage of production is undertaken in the UK, a medium risk country for labour abuse. Most of its products are Fairtrade Certified Gold. It ensures payment of a living wage in most of its supply chain. It traces most of its supply chain",
+                "animal practices": "This brand makes products that are generally free of animal materials so it is not applicable to rate its impact on animals. We calculate the overall rating from environment and labour scores only"
+            }
+        },
+        {
+            "id": 29,
+            "name": "Bougainvillea London",
+            "url": "https://bougainvillea.london/",
+            "info": {
+                "price": "$$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 4,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including upcycled materials. It has a limited production run to minimise textile waste. It manufactures locally to reduce its carbon footprint. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its products are manufactured in-house by a small team. It traces all of its supply chain. It is unclear whether it ensures payment of a living wage",
+                "animal practices": "It does not use fur, leather, wool, down, exotic animal skin, exotic animal hair or angora. It uses recycled silk"
+            }
+        },
+        {
+            "id": 30,
+            "name": "Delikate Rayne",
+            "url": "https://www.delikaterayne.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 4,
+                "GOY labour rating": 3,
+                "GOY animal rating": 5,
+                "environment practices": "It uses a medium proportion of eco-friendly materials including recycled materials. It manufactures locally to reduce its carbon footprint. There is no evidence it minimises packaging. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its final stage of production is undertaken in the USA, a medium risk country for labour abuse. There is no evidence it has a Code of Conduct but it has a formal statement covering workers rights. There is no evidence it ensures payment of a living wage in its supply chain. It traces some of its supply chain",
+                "animal practices": "It is listed by PETA as vegan"
+            }
+        },
+        {
+            "id": 31,
+            "name": "Loop Swim",
+            "url": "https://loopswim.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 5,
+                "environment practices": "It uses a high proportion of eco-friendly materials including recycled materials. It implements waste water reduction initiatives. It minimises packaging. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "It has a Code of Conduct that covers all of the ILO Four Fundamental Freedoms principles. It ensures payment of a living wage in the final stage of production. It traces all of its supply chain. It visits its suppliers regularly",
+                "animal practices": "This brand makes products that are generally free of animal materials so it is not applicable to rate its impact on animals. We calculate the overall rating from environment and labour scores only"
+            }
+        },
+        {
+            "id": 32,
+            "name": "Whimsy + Row",
+            "url": "https://whimsyandrow.com/",
+            "info": {
+                "price": "$$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 3,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including recycled fabrics. It manufactures locally to reduce its carbon footprint. It uses packaging from recycled materials. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its final stage of production is undertaken in the USA, a medium risk country for labour rights. There is no evidence it ensures payment of a living wage in its supply chain. It traces most of its supply chain. It visits its suppliers regularly",
+                "animal practices": "It does not use leather, fur, down, wool, angora or exotic animal skin or hair. It uses recycled wool"
+            }
+        },
+        {
+            "id": 33,
+            "name": "Junarose",
+            "url": "https://www.junarose.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 2,
+                "GOY labour rating": 4,
+                "GOY animal rating": 3,
+                "environment practices": "It is a member of the Better Cotton Initiative. There is no evidence of a current greenhouse gas emissions reduction target. There is no evidence that it has taken any meaningful action to reduce or eliminate hazardous chemicals. It has a current qualitative water target or goal",
+                "labour practices": "It is a member of the Ethical Trading Initiative - ETI and has adopted the ETI base code. It is a signatory to the Bangladesh Building and Fire Safety Accord. It has a project to improve wages in a part of its supply chain. It traces some of its suppy chain including all of its final stage of production",
+                "animal practices": "It does not use fur, down, exotic animal skin and angora. However it uses leather and exotic animal hair. It states that it sources wool from non-mulesed sheep"
+            }
+        },
+        {
+            "id": 34,
+            "name": "Amadeus",
+            "url": "https://amadeus.com/",
+            "info": {
+                "price": "$$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 2,
+                "environment practices": "It uses a high proportion of eco-friendly materials including recycled materials. It makes products by hand to reduce its climate impact. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its final stage of production is undertaken in the UK, a medium risk country for labour abuse. There is no evidence it has a Code of Conduct. There is no evidence it ensures payment of a living wage in its supply chain. There is no evidence it audits any of its supply chain. This brand makes products that are generally free of animal materials other than pearls. We have not rated its impact on animals. The overall rating is based on environment and labour scores only"
+            }
+        },
+        {
+            "id": 35,
+            "name": "Honest Basics",
+            "url": "https://www.honest-basics.com/",
+            "info": {
+                "price": "$",
+                "GOY environment rating": 4,
+                "GOY labour rating": 5,
+                "GOY animal rating": 5,
+                "environment practices": "It uses a high proportion of eco-friendly materials including Global Organic Textile Standard (GOTS) cotton. There is no evidence it minimises textile waste. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its factories are Global Organic Textile Standard (GOTS) certified. It monitors health and safety issues by visiting all of its final stage of production suppliers. It sources its final stage of production from countries with extreme risk of labour abuse. It traces all of its supply chain. It ensures payment of a living wage in most of its supply chain",
+                "animal practices": "Its products are listed by PETA as vegan"
+            }
+        },
+        {
+            "id": 36,
+            "name": "tonle",
+            "url": "https://tonle.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 5,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including recycled materials. It makes its products by hand to reduce its climate impact. It reuses all of its offcuts to minimise textile waste. Its use of eco-friendly materials limits the amount of water used in production",
+                "labour practices": "It traces all of its supply chain. It ensures payment of a living wage in the final stage of production. It visits its suppliers regularly",
+                "animal practices": ""
+            }
+        },
+        {
+            "id": 37,
+            "name": "Phyne",
+            "url": "https://phyne.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 4,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including Global Organic Textile Standard (GOTS) cotton. It manufactures locally to reduce its carbon footprint. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its final stage of production is undertaken in Portugal, a medium risk country for labour abuse. It traces all of its supply chain. It is unclear whether it ensures payment of a living wage in its supply chain",
+                "animal practices": "It does not use any animal products but it does not state that it's vegan"
+            }
+        },
+        {
+            "id": 38,
+            "name": "CHNGE",
+            "url": "https://www.chnge.com/",
+            "info": {
+                "price": "$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 5,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including Global Organic Textile Standard (GOTS) cotton. It uses a limited production run to minimise textile waste. It reduces its climate impact by consuming renewable energy in its direct operations. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its factories are Global Organic Textile Standard (GOTS) certified. It monitors health and safety issues in its supply chain. It ensures payment of a living wage in most of its supply chain. It traces all of its supply chain",
+                "animal practices": "It does not use any animal products but it does not state that it's vegan"
+            }
+        },
+        {
+            "id": 39,
+            "name": "People Tree",
+            "url": "https://www.peopletree.co.uk/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 5,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including Global Organic Textile Standard (GOTS) cotton. It uses low impact non-toxic dyes in all of its products. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Most of its products are certified by Global Organic Textile Standard (GOTS) or Fairtrade International - Small Producers Organisations. It is a member of the WFTO Guarantee System. It ensures payment of a living wage in most of its supply chain. It traces all of its supply chain",
+                "animal practices": "It does not use fur, leather, down, exotic animal skin, exotic animal hair or angora. It states that it sources wool from non-mulesed sheep"
+            }
+        },
+        {
+            "id": 40,
+            "name": "WE Fashion",
+            "url": "https://www.wefashion.be/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 2,
+                "GOY labour rating": 4,
+                "GOY animal rating": 2,
+                "environment practices": "It is a member of the Better Cotton Initiative. It has fast fashion traits such as on trend styles and regular new arrivals. It manages some of its climate impact by encouraging consumer behavioral change. There is no evidence of avoiding chromium and other chemicals in the leather tanning process. There is no evidence of a current water target or goal",
+                "labour practices": "It is a member of the Business Social Compliance Initiative Code of Conduct - BSCI. It monitors health and safety issues through an third party audit of its final stage of production suppliers. It is a signatory to the Bangladesh Building and Fire Safety Accord. It has a project to improve wages in a part of its supply chain. There is no evidence of listing names or addresses for any of its suppliers. It does not specify if it uses unannounced audits",
+                "animal practices": "It has a formal animal welfare policy aligned with Five Freedoms. It uses leather and exotic animal hair. It states that it sources wool from non-mulesed sheep. It uses down certified by the Responsible Down Standard. It does not use fur, exotic animal skin or angora. It traces some animal products to the first stage of production"
+            }
+        },
+        {
+            "id": 41,
+            "name": "Mata Traders",
+            "url": "https://www.matatraders.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 2,
+                "GOY labour rating": 5,
+                "GOY animal rating": 4,
+                "environment practices": "There is no evidence it minimises textile waste. It reduces its climate impact by producing its products by hand. It uses low impact dyes in some of its products. There is no evidence it implements water reduction initiatives",
+                "labour practices": "It is a member of the WFTO Guarantee System. It has a mission to improve working conditions for workers in India and Nepal. It ensures payment of a living wage to all of its final stage of production. It traces most of its supply chain",
+                "animal practices": "There is no evidence that it uses animal products but does not mention being vegan"
+            }
+        },
+        {
+            "id": 42,
+            "name": "Sense Organics",
+            "url": "https://www.sense-organics.com/",
+            "info": {
+                "price": "$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 5,
+                "GOY animal rating": 5,
+                "environment practices": "Its products are certified by Global Organic Textile Standard (GOTS)",
+                "labour practices": "Its products are certified by Fairtrade International - Small Producers Organisations. It traces all of its supply chain. It ensures payment of a living wage in all of its supply chain",
+                "animal practices": "It states that its entire product range is vegan"
+            }
+        },
+        {
+            "id": 43,
+            "name": "The Tiny Closet",
+            "url": "https://www.thetinyclosetshop.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 5,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including upcycled materials. Its products are made to order to minimise textile waste. It manufactures locally to reduce its carbon footprint. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its products are manufactured in-house by the owner. It traces all of its supply chain",
+                "animal practices": "It does not use any animal products but it does not state that it's vegan"
+            }
+        },
+        {
+            "id": 44,
+            "name": "allSisters",
+            "url": "https://www.allsisters.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 4,
+                "environment practices": "Its products are certified by OEKO-TEX Made in Green. It uses a high proportion of eco-friendly materials including recycled materials. It manufactures locally to reduce its carbon footprint",
+                "labour practices": "Its final stage of production is undertaken in Spain, a medium risk country for labour abuse. It traces all of its supply chain. It is unclear whether it ensures payment of a living wage in its supply chain",
+                "animal practices": "This brand makes products that are generally free of animal materials so it is not applicable to rate its impact on animals. We calculate the overall rating from environment and labour scores only"
+            }
+        },
+        {
+            "id": 45,
+            "name": "TAMGA Designs",
+            "url": "https://www.tamgadesigns.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 5,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including Tencel and organic cotton. It uses plastic-free packaging. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "It has a Code of Conduct that covers all of the ILO Four Fundamental Freedoms principles. It ensures payment of a living wage in its final stage of production. It traces all of its supply chain. It visits most of its suppliers regularly",
+                "animal practices": "It does not use any animal products but it does not state that it's vegan"
+            }
+        },
+        {
+            "id": 46,
+            "name": "Knickey",
+            "url": "https://www.knickey.com/",
+            "info": {
+                "price": "$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 5,
+                "environment practices": "It uses a high proportion of eco-friendly materials including Global Organic Textile Standard (GOTS) cotton. It uses renewable energy in its supply chain to reduce its climate impact. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its factories are certified by Fairtrade International - Small Producers Organisations. It ensures payment of a living wage in most of its supply chain. It traces all of its supply chain. It audits all of its suppliers",
+                "animal practices": "This brand makes products that are generally free of animal materials so it is not applicable to rate its impact on animals. We calculate the overall rating from environment and labour scores only"
+            }
+        },
+        {
+            "id": 47,
+            "name": "Mighty Good Basics",
+            "url": "https://mightygoodbasics.com/",
+            "info": {
+                "price": "$",
+                "GOY environment rating": 4,
+                "GOY labour rating": 5,
+                "environment practices": "It uses a high proportion of eco-friendly materials including Global Organic Textile Standard (GOTS) cotton. There is no evidence it minimises textile waste. Its use of eco-friendly materials reduces its climate impact and limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its products are certified by Fairtrade International - Small Producers Organisations. It traces all of its supply chain. It ensures payment of a living wage throughout its supply chain. It visits its suppliers regularly",
+                "animal practices": "This brand makes products that are generally free of animal materials so it is not applicable to rate its impact on animals. We calculate the overall rating from environment and labour scores only"
+            }
+        },
+        {
+            "id": 48,
+            "name": "Christy Dawn",
+            "url": "https://www.christydawn.com/",
+            "info": {
+                "price": "$$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 5,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including recycled fabrics. It produces long lasting products. It manufactures locally to reduce its carbon footprint. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "It sources its final stage of production from the USA, a medium risk country for labour abuse. It ensures payment of a living wage in its final stage of production. It traces all of its supply chain",
+                "animal practices": "It does not use fur, angora, down or exotic animal skin. It uses recycled leather, recycled wool and recycled exotic animal hair"
+            }
+        },
+        {
+            "id": 49,
+            "name": "Charlee Swim",
+            "url": "https://www.charleeswim.com.au/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including recycled materials. It manufactures locally to reduce its carbon footprint. It reuses all of its offcuts to minimise textile waste. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its final stage of production is undertaken in Australia, a low risk country for labour abuse. There is no evidence it has a Code of Conduct but it has a formal statement covering workers rights. It traces all of its supply chain. It is unclear whether it ensures payment of a living wage in its supply chain",
+                "animal practices": "This brand makes products that are generally free of animal materials so it is not applicable to rate its impact on animals. We calculate the overall rating from environment and labour scores only"
+            }
+        },
+        {
+            "id": 50,
+            "name": "PaaPii Design",
+            "url": "https://www.paapiidesign.com/fi",
+            "info": {
+                "price": "$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 4,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including Global Organic Textile Standard (GOTS) cotton. It uses renewable energy in its manufacturing to reduce its climate impact. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its final stage of production is undertaken in Finland, a low risk country for labour abuse. There is no evidence it has a Code of Conduct but it has a formal statement covering workers rights. It traces most of its supply chain. It is unclear whether it ensures payment of a living wage in its supply chain",
+                "animal practices": "It does not use fur, leather, down, exotic animal skin, exotic animal hair or angora. It states that it sources wool from non-mulesed sheep"
+            }
+        },
+        {
+            "id": 51,
+            "name": "KENT",
+            "url": "https://www.wearkent.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including Global Organic Textile Standard (GOTS) cotton. It manufactures locally to reduce its carbon footprint. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its final stage of production is undertaken in the USA, a medium risk country for labour abuse. It traces all of its supply chain. It is unclear whether it ensures payment of a living wage in its supply chain. It visits its suppliers regularly",
+                "animal practices": "This brand makes products that are generally free of animal materials except for silk so it is not applicable to rate its impact on animals. We calculate the overall rating from environment and labour scores only"
+            }
+        },
+        {
+            "id": 52,
+            "name": "Bik Bok",
+            "url": "https://bikbok.com/en/",
+            "info": {
+                "price": "$",
+                "GOY environment rating": 2,
+                "GOY labour rating": 4,
+                "GOY animal rating": 3,
+                "environment practices": "It is a member of the Better Cotton Initiative. It has fast fashion traits such as on trend styles and regular new arrivals. There is no evidence of a current greenhouse gas emissions reduction target. There is no evidence of avoiding chromium and other chemicals in the leather tanning process. Its wastewater is treated and discharged properly",
+                "labour practices": "It sources its final stage of production from countries with extreme risk of labour abuse but it has a project to improve wages in a part of its supply chain. It traces most of its supply chain including all of the final stage of production. All of final stage of production is audited",
+                "animal practices": "It does not use fur, down, exotic animal skin and angora. It states that it sources wool from non-mulesed sheep. However it uses leather and exotic animal hair"
+            }
+        },
+        {
+            "id": 53,
+            "name": "milo+nicki",
+            "url": "https://milonicki.com/",
+            "info": {
+                "price": "$$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 3,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a medium proportion of eco-friendly materials including Global Organic Textile Standard (GOTS) cotton. It produces products by hand to reduce its climate impact. It uses low impact non-toxic dyes in all of its products. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "There is no evidence it has a Code of Conduct but it has a formal statement covering workers rights. It traces most of its supply chain. It ensures payment of a living wage in some of its supply chain but does specify what percentage. It audits some of its supply chain",
+                "animal practices": "It does not use fur, leather, wool, down, exotic animal skin, exotic animal hair or angora. It uses peace silk"
+            }
+        },
+        {
+            "id": 54,
+            "name": "Studio JUX",
+            "url": "https://studiojux.com/",
+            "info": {
+                "price": "$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 5,
+                "GOY animal rating": 4,
+                "environment practices": "It reuses all of its offcuts to minimise textile waste. It uses a medium proportion of eco-friendly materials including Global Organic Textile Standard (GOTS) cotton. It uses renewable energy in the final stage of production to reduce its climate impact. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "It is a social enterprise that improves working conditions for workers from Nepal. It has a Code of Conduct that covers all of the ILO Four Fundamental Freedoms principles. It ensures payment of a living wage in most of the final stage of production. It traces most of its supply chain. It visits its suppliers regularly",
+                "animal practices": "It does not use fur, leather, down, exotic animal skin or angora. It uses wool"
+            }
+        },
+        {
+            "id": 55,
+            "name": "The Common Good Company",
+            "url": "https://www.thecommongoodco.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 4,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a high proportion of eco-friendly materials including recycled materials. It reuses most of its offcuts to minimise textile waste. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its final stage of production is certified by Fairtrade. There is no evidence it has a Code of Conduct but it has a formal statement covering workers rights. It traces all of its supply chain. It audits its final stage of production",
+                "animal practices": "It does not use any animal products but it does not state that it's vegan"
+            }
+        },
+        {
+            "id": 56,
+            "name": "Yes Friends",
+            "url": "https://yesfriends.co.uk/",
+            "info": {
+                "price": "$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 5,
+                "GOY animal rating": 5,
+                "environment practices": "It uses a high proportion of eco-friendly materials including Global Organic Textile Standard (GOTS) cotton. It uses renewable energy in its supply chain to reduce its climate impact. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its products are certified by Fairtrade International - Small Producers Organisations. It traces all of its supply chain. It ensures payment of a living wage in most of its supply chain",
+                "animal practices": "It is listed by PETA as vegan"
+            }
+        },
+        {
+            "id": 57,
+            "name": "Saint Basics",
+            "url": "https://www.saintbasics.com/en/",
+            "info": {
+                "price": "$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 4,
+                "GOY animal rating": 5,
+                "environment practices": "It uses a high proportion of eco-friendly materials including Global Organic Textile Standard (GOTS) cotton. It uses renewable energy in its supply chain to reduce its climate impact. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its final stage of production is undertaken in Portugal, a medium risk country for labour abuse. There is no evidence it has a Code of Conduct but it has a formal statement covering workers rights. It traces all of its supply chain. It is unclear whether it ensures payment of a living wage in its supply chain",
+                "animal practices": "It is listed by PETA as vegan"
+            }
+        },
+        {
+            "id": 58,
+            "name": "Amour Vert",
+            "url": "https://www.amourvert.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 4,
+                "GOY labour rating": 3,
+                "GOY animal rating": 2,
+                "environment practices": "It uses a medium proportion of eco-friendly materials including Global Organic Textile Standard (GOTS) cotton. It manufactures locally to reduce its carbon footprint. There is no evidence it minimises textile waste. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Most of its final stage of production is undertaken in the USA, a medium risk country for labour rights. There is no evidence it has a Code of Conduct but it has a formal statement covering workers rights. It is unclear whether it is ensures payment of a living wage in its supply chain. It traces most of its supply chain including all of the final stage of production. It visits most of its suppliers regularly",
+                "animal practices": "It uses leather, wool and exotic animal hair. It does not use fur, down, exotic animal skin or angora"
+            }
+        },
+        {
+            "id": 59,
+            "name": "loud + proud",
+            "url": "https://www.loud-proud.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 4,
+                "GOY animal rating": 4,
+                "environment practices": "Its products are Global Organic Textile Standard (GOTS) certified. It manufactures locally to reduce its carbon footprint. Its use of eco-friendly materials limits the amount of chemicals, water and wastewater used in production",
+                "labour practices": "Its final stage of production is undertaken in the European Union, a low/medium risk region for labour abuse. It traces all of its supply chain. It visits its suppliers regularly. It is unclear whether it ensures payment of a living wage in its supply chain",
+                "animal practices": "It does not use any animal products but it does not state that it's vegan"
+            }
+        },
+        {
+            "id": 60,
+            "name": "Purnama",
+            "url": "https://shoppurnama.com/",
+            "info": {
+                "price": "$",
+                "GOY environment rating": 4,
+                "GOY labour rating": 4,
+                "GOY animal rating": 4,
+                "environment practices": "It uses a medium proportion of eco-friendly materials including recycled fabrics. It makes its products by hand to reduce its climate impact. It uses low impact non-toxic dyes in all of its products. There is no evidence it minimises packaging. Its use of eco-friendly materials limits the amount of water and wastewater used in production",
+                "labour practices": "It is a social enterprise created to provide fair employment in Asia. It ensures payment of a living wage in its final stage of production. It traces some of its supply chain including all of the final stage of production",
+                "animal practices": "It does not use any animal products but it does not state that it's vegan"
+            }
+        },
+        {
+            "id": 61,
+            "name": "Kotn",
+            "url": "https://kotn.com/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 2,
+                "GOY labour rating": 4,
+                "GOY animal rating": 4,
+                "environment practices": "It does not use eco-friendly materials. It manufactures its first and second stages of production locally to reduce its climate impact. There is no evidence it minimises textile waste. It uses packaging that can be recycled",
+                "labour practices": "It has a mission to improve social condition for cotton communities in Egypt. It traces all of its supply chain. It is unclear whether it ensures payment of a living wage in its supply chain",
+                "animal practices": "It does not use any animal products but it does not state that it's vegan"
+            }
+        },
+        {
+            "id": 62,
+            "name": "unspun",
+            "url": "https://unspun.io/",
+            "info": {
+                "price": "$$",
+                "GOY environment rating": 5,
+                "GOY labour rating": 4,
+                "GOY animal rating": 5,
+                "environment practices": "Its products are made to order to minimise textile waste. It implements initiatives to reduce greenhouse gas emissions from manufacturing. It uses low impact non-toxic dyes in most of its products. It has implemented water reduction initiatives in its supply chain",
+                "labour practices": "There is no evidence it has a Code of Conduct but it has a formal statement covering workers rights. It has a project to improve wages in part of its supply chain. It traces most of its supply chain",
+                "animal practices": "It states that its entire product range is vegan"
+            }
         }
     ]
 }

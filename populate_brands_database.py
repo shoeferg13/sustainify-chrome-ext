@@ -1,4 +1,4 @@
-from brand_json import Brand
+from brand_class import Brand
 import json
 import time
 
@@ -8,7 +8,7 @@ recommendation_mappings = {
     "UNIQLO": ["Yes Friends", "Knickey", "Kotn"],
     "Stradivarius": ["Studio JUX", "Saint Basics", "Sense Organics"],
     "Topshop": ["CHNGE", "PaaPii Design", "Yes Friends"],
-    "Ripcurl": ["allSisters", "Loop Swim", "Charlee Swim"],
+    "Rip Curl": ["allSisters", "Loop Swim", "Charlee Swim"],
     "Victoria's Secret": ["Natalie Perry", "Whimsy + Row", "Amadeus"],
     "Urban Outfitters": ["CHNGE", "Saint Basics", "Purnama"],
     "GUESS": ["People Tree", "Mata Traders", "Amour Vert"],
@@ -26,7 +26,7 @@ companies_list = \
     "UNIQLO",
     "Stradivarius",
     "Topshop",
-    "Ripcurl",
+    "Rip Curl",
     "Victoria's Secret",
     "Urban Outfitters",
     "GUESS",
@@ -54,6 +54,14 @@ companies_list = \
 ]
 
 
+def get_names_of_all_recommended_brands(recommendation_mappings):
+    rec_set = set()
+    for unsustainable_brands in recommendation_mappings:
+        recs = recommendation_mappings[unsustainable_brands]
+        rec_set.update(recs)
+    return list(rec_set)
+
+
 def populate_db_documents(companies_list, recommendation_mappings):
     documents = []
     for id, company_name in enumerate(companies_list):
@@ -79,4 +87,6 @@ def write_db_to_json_file(companies_list,
         json.dump(database, outfile, indent=4)
 
 
+rec_brands = get_names_of_all_recommended_brands(recommendation_mappings)
+companies_list.extend(rec_brands)
 write_db_to_json_file(companies_list, recommendation_mappings, db_file)
