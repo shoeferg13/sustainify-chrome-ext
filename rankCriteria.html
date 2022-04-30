@@ -4,11 +4,22 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link rel="stylesheet" type="text/css" href="ranking_style.css">
+    <link rel="stylesheet" type="text/css" href="css/ranking_style.css">
     <title>Settings</title>
+    <style>
+        .box {
+            width: 600px;
+            height: 250px;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+   </style>
   </head>
   <body class="backgroundColor">
     <form id="js-form">
+        <div class="box">
       <div class="container">
         <p class="rank-text">Please rank the sustainability practices that matter most to you:</p>
 
@@ -35,6 +46,8 @@
 
       </div>
       <a class="back-button" href="popup.html">Back</a>
+    </div>
+      
     </form>
     <script src="js/drag_drop_logic.js"></script>
   </body>

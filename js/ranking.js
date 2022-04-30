@@ -38,6 +38,16 @@ function matchSiteToJson(url, jsondata) {
     return null;
 }
 
+function matchNameToJson(name, jsondata) {
+    for (i = 0; i < jsondata.data.length; i++) {
+        jsonName = jsondata.data[i].name;
+        if (jsonName == name) {
+            return jsondata.data[i];
+        }
+    }
+    return null;
+}
+
 chrome.tabs.query({active: true, lastFocusedWindow: true}, tabs => {
     let currentTab = tabs[0];
     url = currentTab.url;
@@ -63,7 +73,22 @@ fetch("sustainify_database.json")
 
             if (matchingCompany.name in recommendation_mappings) {
                 const recommendation = document.getElementById("recommendation");
-                recommendation.textContent = "Try out these similar, more sustainable options instead: " + recommendation_mappings[matchingCompany.name] + "!";
+                const recommendation1 = document.getElementById("recommendation1");
+                const recommendation2 = document.getElementById("recommendation2");
+                const recommendation3 = document.getElementById("recommendation3");
+                const rec1Json = matchNameToJson(recommendation_mappings[matchingCompany.name][0], jsondata);
+                const rec2Json = matchNameToJson(recommendation_mappings[matchingCompany.name][1], jsondata);
+                const rec3Json = matchNameToJson(recommendation_mappings[matchingCompany.name][2], jsondata);
+                recommendation1.textContent = rec1Json.name + ", Rating: " + rec1Json.info["GOY environment rating"];
+                recommendation2.textContent = rec2Json.name + ", Rating: " + rec2Json.info["GOY environment rating"];
+                recommendation3.textContent = rec3Json.name + ", Rating: " + rec3Json.info["GOY environment rating"];
+                recommendation1.href = rec1Json.url;
+                recommendation2.href = rec2Json.url;
+                recommendation3.href = rec3Json.url;
+                recommendation1.target = "_blank";
+                recommendation2.target = "_blank";
+                recommendation3.target = "_blank";
+                recommendation.textContent = "Try out these similar, more sustainable options instead!";
             }
         } else {
             nameDiv.textContent = "No matches";

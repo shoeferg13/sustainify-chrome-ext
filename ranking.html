@@ -53,6 +53,13 @@
     .backgroundColor {
       background-color: aquamarine;
     }
+    .recommendationColumn {
+        display: inline-grid;
+        text-align: center;
+    }
+    .rec {
+        padding: 10px;
+    }
     </style>
   </head>
   <body class="backgroundColor">
@@ -66,9 +73,15 @@
        <span class="message" id="js-message"></span>
       <div class="center"><div id="circle" class="circle">     </div></div>
       <div id="recommendation" name="recommendation"></div>
-      <a class="linkPadding" href="popup.html">
-        Back
-      </a>
+      <div class="recommendationColumn">
+        <a class="rec" id="recommendation1"></a>
+        <a class="rec" id="recommendation2"></a>
+        <a class="rec" id="recommendation3"></a>
+        <a class="linkPadding" href="popup.html">
+            Back
+          </a>
+    </div>
+      
     </form>
     <script src="js/popup.js"></script>
 </div>
