@@ -61,6 +61,7 @@ fetch("sustainify_database.json")
         jsondata = data;
         const matchingCompany = matchSiteToJson(url, jsondata);
         const nameDiv=document.getElementById("jsonData");
+        const introDiv=document.getElementById("intro");
         const descriptionDiv = document.getElementById("description");
         const circle = document.getElementById("circle");
         if (matchingCompany != null) {
@@ -91,7 +92,8 @@ fetch("sustainify_database.json")
                 recommendation.textContent = "Try out these similar, more sustainable options instead!";
             }
         } else {
-            nameDiv.textContent = "No matches";
+            nameDiv.textContent = "This page will show recommendations when you visit one of the fashion companies in our database.";
+            introDiv.textContent = "";
         }
         
         

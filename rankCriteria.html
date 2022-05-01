@@ -11,17 +11,43 @@
             width: 600px;
             height: 250px;
             text-align: center;
+            align-content: center;
         }
         .container {
             padding: 20px;
         }
+        .flex-container {
+      display: flex;
+      padding-bottom: 30px;
+      padding: 20px;
+    }
+    .flex-child {
+    flex: 1;
+    border-radius: 5px;
+      border: 1px solid black;
+      padding: 10px; 
+      align-content: center;
+      width: 30px;
+      text-align: center;
+
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+    color: black;
+} 
+        .linkColor {
+  color: black;
+  font-weight: bold;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
    </style>
   </head>
   <body class="backgroundColor">
     <form id="js-form">
         <div class="box">
       <div class="container">
-        <p class="rank-text">Please rank the sustainability practices that matter most to you:</p>
+        <p class="rank-text">Please rank the sustainability practices that matter most to you. Drag the items to rearrange.</p>
 
         <ol class="draggable-list" id="draggable-list">
           <li value=1>
@@ -45,7 +71,18 @@
         </ol>
 
       </div>
-      <a class="back-button" href="popup.html">Back</a>
+      <div class="flex-container">
+        <div class="flex-child">
+        <a class="linkColor" href="ranking.html">
+          Save
+        </a>
+      </div>
+      <div class="flex-child">
+        <a class="linkColor" href="popup.html">
+          Back
+        </a>
+      </div>
+    </div>
     </div>
       
     </form>

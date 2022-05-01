@@ -20,9 +20,16 @@
         color: green;
       }
       .box {
-        width: 150px;
-        height: 50px;
+        width: 200px;
+        height: 150px;
+        align-content: center;
+      }
+
+      .title {
         text-align: center;
+        font-weight: bold;
+        padding: 20px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
       }
 
       .error {
@@ -33,12 +40,14 @@
         display: block;
       }
       .linkYesPadding {
-        padding-left: 40px;
+        /* padding-left: 50px;
+        padding-bottom: 40px; */
         color: black;
         font-weight: bold;
       }
       .linkNoPadding {
-        padding-left: 20px;
+        padding-left: 50px;
+        padding-bottom: 40px;
         color: black;
         font-weight: bold;
       }
@@ -50,27 +59,79 @@
       height: 100px;
       width: 100px;
       align-self: center;
-      padding-left: 25px;
-      padding-bottom: 50px;
+      padding-left: 50px;
+      padding-bottom: 20px;
     }
     .pickPadding {
       padding-bottom: 20px;
       padding-left: 10px;
+      padding-right: 10px;
+      text-align: center;
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
+    .roundedButtonYes {
+
+      padding: 10px;
+      align-content: center;
+      border-radius: 5px;
+      border: 1px solid black;
+    }
+    .roundedButtonNo {
+      padding: 10px; 
+      align-content: center;
+      border-radius: 5px;
+      border: 1px solid black;
+    }
+
+    .flex-container {
+      display: flex;
+      padding-bottom: 30px;
+    }
+    .flex-child {
+    flex: 1;
+    border-radius: 5px;
+      border: 1px solid black;
+      padding: 10px; 
+      align-content: center;
+      width: 30px;
+      text-align: center;
+
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+    color: black;
+} 
+.linkColor {
+  color: black;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
     </style>
   </head>
   <body class="backgroundColor">
     <form id="js-form">
-      <div class="box">Welcome to Sustainify!</div>
+      <div class="box">
+      <div class="title">Welcome to Sustainify!</div>
       <img class="logoSize" src="icons/sustainify.png"></img>
-      <div class="pickPadding">Pick preferences now?</div>
+      <div class="title">Choose sustainable fashion.</div>
+      <div class="pickPadding">Pick sustainability preferences now?</div>
       <span class="message" id="js-message"></span>
-      <a class="linkYesPadding" href="rankCriteria.html">
+      <div class="flex-container">
+      <div class="flex-child">
+      <a class="linkColor" href="rankCriteria.html">
         Yes
       </a>
-      <a class="linkNoPadding" href="ranking.html">
+    </div>
+    <div class="flex-child">
+      <a class="linkColor" href="ranking.html">
         No
       </a>
+    </div>
+  </div>
+    </div>
+      
     </form>
     <script src="js/popup.js"></script>
   </body>

@@ -59,26 +59,42 @@
     }
     .rec {
         padding: 10px;
+        font-weight: bold;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
+    .linkColor {
+  color: black;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.description {
+    padding: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.intro {
+    padding: 20px;
+    font-weight: bold;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
     </style>
   </head>
   <body class="backgroundColor">
     <form id="js-form">
         <div class="box">
-      <div>Here is our ranking for this site's sustainability: 
+      <div id="intro" class="intro">Here is our ranking for this site's sustainability: 
       </div>
       <script src="js/ranking.js"></script>
-      <div id="jsonData" name="jsonData"></div>
-      <div id="description" name="description"></div>
-       <span class="message" id="js-message"></span>
+      <div id="jsonData" class="intro"></div>
       <div class="center"><div id="circle" class="circle">     </div></div>
-      <div id="recommendation" name="recommendation"></div>
+      <div id="description" class="description"></div>
+       <span class="message" id="js-message"></span>
+      
+      <div id="recommendation" class="intro"></div>
       <div class="recommendationColumn">
         <a class="rec" id="recommendation1"></a>
         <a class="rec" id="recommendation2"></a>
         <a class="rec" id="recommendation3"></a>
         <a class="linkPadding" href="popup.html">
-            Back
+            Home
           </a>
     </div>
       
