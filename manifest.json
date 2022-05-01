@@ -14,7 +14,7 @@
     },
     "permissions": ["storage", "unlimitedStorage", "declarativeContent", "tabs", "activeTab", "https://us.shein.com/*"],
     "background": {
-      "scripts": ["js/background.js", "js/event.js"],
+      "scripts": ["js/background.js"],
       "persistent": false
     },
     "minimum_chrome_version": "60"
