@@ -4,102 +4,54 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" type="text/css" href="css/ranking.css">
     <title>Settings</title>
-    <style>
-      kbd {
-        font-size: inherit;
-        font-family: inherit;
-      }
-
-      input {
-        margin-top: 10px;
-        margin-bottom: 10px;
-      }
-
-      .success {
-        color: green;
-      }
-
-      .error {
-        color: red;
-      }
-
-      .message {
-        display: block;
-      }
-      .box {
-        width: 400px;
-        height: 200px;
-        text-align: center;
-      }
-      .circle {
-      width: 50px;
-      height: 50px;
-      -webkit-border-radius: 25px;
-      -moz-border-radius: 25px;
-      border-radius: 25px;
-      /* background: #E82F02; */
-      align-self: center;
-    }
-    .center {
-        padding: 25px;
-        padding-left: 175px;
-    }
-    .linkPadding {
-        padding: 20px;
-        color: black;
-        font-weight: bold;
-      }
-    .backgroundColor {
-      background-color: aquamarine;
-    }
-    .recommendationColumn {
-        display: inline-grid;
-        text-align: center;
-    }
-    .rec {
-        padding: 10px;
-        font-weight: bold;
-        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    }
-    .linkColor {
-  color: black;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-.description {
-    padding: 20px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-.intro {
-    padding: 20px;
-    font-weight: bold;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-    </style>
   </head>
   <body class="backgroundColor">
     <form id="js-form">
-        <div class="box">
-      <div id="intro" class="intro">Here is our ranking for this site's sustainability: 
+      <div class="box">
+        <div id="intro" class="intro">Here is Sustainify's ratings for: </div>
+        <script src="js/ranking.js"></script>
+        <div id="jsonData" class="jsonData"></div>
+        <div class="center">
+          <div id="circle" class="circle"></div>
+        </div>
+        <div id="ratingDisclaimer" class="disclaimer">All ratings are scored on a 5.00 scale</div>
+        
+        <!-- ACCORDION BODY -->
+        <div class="accordion-body">
+          <div class="accordion">
+            <hr>
+            <div class="container">
+              <div class="label">Environment Practices</div>
+              <div class="content" id="environment">Environment</div>
+            </div>
+            <hr>
+            <div class="container">
+              <div class="label">Labour Practices</div>
+              <div class="content" id="labour">Labour</div>
+            </div>
+            <hr>
+            <div class="container">
+              <div class="label">Animal Practices</div>
+              <div class="content" id="animal">Animal</div>
+            </div>
+            <hr>
+          </div>
+        </div>
+        <!-- ACCORDION BODY -->
+        
+        <span class="message" id="js-message"></span>
+        
+        <div id="recommendation" class="intro"></div>
+        <div class="recommendationColumn">
+          <a class="rec" id="recommendation1"></a>
+          <a class="rec" id="recommendation2"></a>
+          <a class="rec" id="recommendation3"></a>
+          <a class="linkPadding" href="popup.html">Home</a>
+        </div>
       </div>
-      <script src="js/ranking.js"></script>
-      <div id="jsonData" class="intro"></div>
-      <div class="center"><div id="circle" class="circle">     </div></div>
-      <div id="description" class="description"></div>
-       <span class="message" id="js-message"></span>
-      
-      <div id="recommendation" class="intro"></div>
-      <div class="recommendationColumn">
-        <a class="rec" id="recommendation1"></a>
-        <a class="rec" id="recommendation2"></a>
-        <a class="rec" id="recommendation3"></a>
-        <a class="linkPadding" href="popup.html">
-            Home
-          </a>
-    </div>
-      
     </form>
     <script src="js/popup.js"></script>
-</div>
   </body>
 </html>
