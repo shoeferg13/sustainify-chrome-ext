@@ -1,0 +1,141 @@
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+kbd {
+    font-size: inherit;
+    font-family: inherit;
+}
+input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.success {
+    color: green;
+}
+.error {
+    color: red;
+}
+.message {
+    display: block;
+}
+.box {
+    width: 400px;
+    height: 200px;
+    text-align: center;
+}
+.circle {
+    width: 75px;
+    height: 75px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    /* background: #E82F02; */
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    display: flex;
+}
+.center {
+    padding: 10px;
+    /* padding-left: 175px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.linkPadding {
+    padding: 20px;
+    color: black;
+    font-weight: bold;
+}
+.backgroundColor {
+    background-color: aquamarine;
+}
+.recommendationColumn {
+    display: inline-grid;
+    text-align: center;
+}
+.rec {
+    padding: 10px;
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.linkColor {
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.intro {
+    padding: 10px;
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.jsonData {
+    font-size: large;
+    padding: 5px;
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.disclaimer {
+    padding-bottom: 10px;
+}
+/* Citation for the accordion: https://www.freecodecamp.org/news/build-an-accordion-menu-using-html-css-and-javascript/ */
+.accordion {
+    color: black;
+    background-color: white;
+    padding: 10px;
+    text-align: left;
+}
+.accordion .container {
+    position: relative;
+}
+/* Positions the labels relative to the .container. Adds padding to the top and bottom and increases font size. Also makes its cursor a pointer */
+.accordion .label {
+    position: relative;
+    padding: 5px 0;
+    font-size: small;
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* Positions the plus sign 5px from the right. Centers it using the transform property. */
+.accordion .label::before {
+    content: '+';
+    color: black;
+    position: absolute;
+    top: 50%;
+    margin-right: 10px;
+    right: -5px;
+    transform: translateY(-50%);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}  
+/* Hides the content (height: 0), decreases font size, justifies text and adds transition */  
+.accordion .content {
+    position: relative;
+    background: white;
+    height: 0;
+    text-align: justify;
+    overflow: hidden;
+    transition: 0.5s;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}  
+/* Adds a horizontal line between the contents */
+.accordion hr {
+    width: 100;
+    margin-left: 0;
+    border: 1px solid grey;
+}
+/* Unhides the content part when active. Sets the height */
+.accordion .container.active .content {
+    height: auto;
+}
+/* Changes from plus sign to negative sign once active */
+.accordion .container.active .label::before {
+    content: '-';
+    font-size: small;
+}
